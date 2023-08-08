@@ -2,8 +2,6 @@
 
 ![](https://github-stats.ubrong.com/api?username=ldgeng&show_icons=true&theme=tokyonight)
 ![](https://github-stats.ubrong.com/api/top-langs/?username=ldgeng&layout=compact&theme=tokyonight)
-![](https://stats.justsong.cn/api/github?username=ldgeng&theme=dark&lang=en-US)
-![](https://stats.justsong.cn/api/bilibili/?id=387784569&theme=dark)
 
 ![](https://badgen.net/badge/windows/11/blue?icon=windows)
 ![](https://badgen.net/badge/cpp/gcc12.2.0/red)
