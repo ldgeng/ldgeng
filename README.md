@@ -4,8 +4,8 @@
 ![](https://github-stats.ubrong.com/api/top-langs/?username=ldgeng&layout=compact&theme=tokyonight)
 
 ![](https://badgen.net/badge/windows/11/blue?icon=windows)
-![](https://badgen.net/badge/cpp/gcc12.2.0/red)
-![](https://badgen.net/badge/python/3.10.5/green)
+![](https://badgen.net/badge/cpp/gcc15.1.0/red)
+![](https://badgen.net/badge/python/3.11.8/green)
 
 <!--
 **ldgeng/ldgeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
